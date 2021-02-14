@@ -38,7 +38,7 @@ npm install
 3. PUT
 
   ```bash
-  https://iuikzsc7mh.execute-api.us-east-1.amazonaws.com/dev/desarrolladores/
+  https://iuikzsc7mh.execute-api.us-east-1.amazonaws.com/dev/desarrolladores/1
   ```
   ```javascript
   {
