@@ -1,0 +1,19 @@
+{
+  "name": "ProyectoRDS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "querystring": "^0.2.0",
+    "serverless-offline": "^6.8.0",
+    "serverless-plugin-include-dependencies": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
